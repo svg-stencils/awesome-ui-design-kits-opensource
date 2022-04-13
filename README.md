@@ -1,8 +1,8 @@
+![cover](/cover.png)
+
 # Awesome Open Source UI Design Kits
 
 Curated list of true open source UI design kits for Sketch, Figma, Inkscape and Adobe CC
-
-![cover](/cover.png)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 

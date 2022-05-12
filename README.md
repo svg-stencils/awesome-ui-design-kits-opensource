@@ -4,6 +4,8 @@
 
 Curated list of true open source UI design kits for Sketch, Figma, Inkscape and Adobe CC
 
+🌻 Featuring https://svg-stencils.github.io 🌻
+
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/alexpate/awesome-design-systems/pulls).
